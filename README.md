@@ -1,4 +1,4 @@
-# [Welcome to PLANITNOW ✈️](https://plananytime.netlify.app/)
+# [Welcome to Plananytime ✈️](https://plananytime.netlify.app/)
 
 <<<<<<< HEAD
 Click [here](https://plananytime.netlify.app/) to have a look at our website.
@@ -6,7 +6,7 @@ Click [here](https://plananytime.netlify.app/) to have a look at our website.
 Click [here](https://plananytime.netlyfy.app) to have a look at our website.
 >>>>>>> 98e957b3174bd1468da22f8053b5fd0ecc8bceb9
 <p align="center">
-Planitnow is a front-end website for a travel agency. The website contains details about tourist destinations, available hotels and car booking services. We focus on displaying various attractive places within the country and tourist packages are updated as they are announced by the travel agency. Details about the founder and manager are included, together with links to the Paryatana website social media pages.
+Plananytime is a front-end website for a travel agency. The website contains details about tourist destinations, available hotels and car booking services. We focus on displaying various attractive places within the country and tourist packages are updated as they are announced by the travel agency. Details about the founder and manager are included, together with links to the Paryatana website social media pages.
 </p>
 
 <br> <br>
